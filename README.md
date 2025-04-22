@@ -10,7 +10,7 @@ Este repositorio contiene una colección de dashboards e integraciones de Machin
 
 ### 🔧 1. Predictive Maintenance – Mantenimiento Predictivo con Machine Learning
 
-![Dashboard Mantenimiento](imagenes/dashboard_mantenimiento.png)
+![INTERFAZ](imagen_2025-04-21_224900757.png)
 
 - **Objetivo:** Predecir el tipo de falla en equipos industriales a partir de variables como temperatura, torque, velocidad rotacional y desgaste de herramientas.
 - **Tecnologías:** Python (Streamlit + Scikit-learn) + Power BI.
