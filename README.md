@@ -22,12 +22,17 @@ Este repositorio contiene una colección de dashboards e integraciones de Machin
   - Indicadores de temperatura promedio/máxima/mínima
 
 👉 *Incluye una app interactiva desarrollada en Streamlit para hacer predicciones personalizadas.*
+![INTERFAZ](1_MAINTENANCE.png)
+![INTERFAZ](2_MAINTENANCE.png)
+![INTERFAZ](3_MAINTENANCE.png)
+
 
 ---
 
 ### 📦 2. Supplier Quality Analysis – Análisis de Calidad de Proveedores
 
-![Dashboard Proveedores](imagenes/dashboard_proveedores.png)
+![INTERFAZ](1_SUPPLIER.png)
+![INTERFAZ](2_SUPPLIER.png)
 
 - **Objetivo:** Evaluar el desempeño de los proveedores en relación con la calidad de los productos entregados.
 - **Métricas clave:**
