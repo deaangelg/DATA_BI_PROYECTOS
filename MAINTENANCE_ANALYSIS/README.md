@@ -1,6 +1,6 @@
 ### 🔧 1. Predictive Maintenance – Mantenimiento Predictivo con Machine Learning
 
-![INTERFAZ](imagen_2025-04-21_224900757.png)
+![INTERFAZ](3_app.png)
 
 - **Objetivo:** Predecir el tipo de falla en equipos industriales a partir de variables como temperatura, torque, velocidad rotacional y desgaste de herramientas.
 - **Tecnologías:** Python (Streamlit + Scikit-learn) + Power BI.
