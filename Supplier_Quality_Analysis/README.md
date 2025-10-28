@@ -1,4 +1,4 @@
-### 📦 2. Supplier Quality Analysis – Análisis de Calidad de Proveedores
+###  2. Supplier Quality Analysis – Análisis de Calidad de Proveedores
 
 
 - **Objetivo:** Evaluar el desempeño de los proveedores en relación con la calidad de los productos entregados.
@@ -16,7 +16,7 @@
 
 ---
 
-## 🧠 ¿Qué habilidades se demuestran?
+##  ¿Qué habilidades se demuestran?
 
 - Visualización y análisis de datos con Power BI, DAX
 - Integración de Machine Learning con interfaces interactivas (Streamlit)
